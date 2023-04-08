@@ -1,0 +1,31 @@
+import email
+import random
+
+
+ee = "qwertyuiopasdfghjklzxcvbnm"
+
+slp = 0
+num1 = int(input('1-'))
+#xd = int(input("# - Limet ? : 100-100k :"))
+chars="qw_ertyuiopa.123456789.0sdfghjkl_z.xc_vbn_mqwer.t_yuiopasd0123466.559856_fghjkl.zxcvbnmqwert000.yuio_pasdf.ghjklzxc.vbnmqw.ertyuiopasd_fghj.klzx.cvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm12345678901234567890.";user=""
+for user in range(1):
+    user=""
+    for item in range(length):
+#r = input('@Gmail.com / @yahoo.com / @hotmail.com .? ')
+#send = input('Enter Num 1-Gmail 2-yahoo 3-hotmail')
+if '1':
+        while True:
+            email1 = a+'@hotmail.com'
+            email2 = b+'@hotmail.com'
+            email3 = c+'@hotmail.com'
+            print(email3)
+            print(email2)
+            print(email1)
+            Done = open('Email.xr7p.txt','a')
+            Done.write(email1+ email2+ email3)
+elif '2':
+    print("2")
+
+
+elif '3':
+    print('3')
